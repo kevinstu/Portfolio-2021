@@ -1,8 +1,8 @@
 backend:
   name: github
-  # change repo to your git repository url
-  repo: kevinstu/StaffPicks
+  repo: kevinstu/Portfolio-2021
   branch: main
+  site_domain: happy-thompson-eeb1ba.netlify.app
 
 media_folder: static/assets
 public_folder: /assets
