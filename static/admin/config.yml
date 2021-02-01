@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
-  repo: main
+  name: github
+  # change repo to your git repository url
+  repo: kevinstu/StaffPicks
+  branch: main
 
 media_folder: static/assets
 public_folder: /assets
