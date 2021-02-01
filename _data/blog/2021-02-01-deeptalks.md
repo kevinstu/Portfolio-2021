@@ -4,7 +4,7 @@ path: /deeptalks
 date: 2021-02-01T12:24:58.558Z
 title: DeepTalks
 metaDescription: ''
-thumbnail: /assets/DeepTalks_Porftolio.png
+thumbnail: /assets/DeepTalks_Portfolio.jpg
 ---
 Deeptalks is an up and coming Youtube channel that highlights new companies.
 
