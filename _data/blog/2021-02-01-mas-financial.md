@@ -5,17 +5,15 @@ date: 2021-02-01T13:00:04.622Z
 title: MAS Financial
 thumbnail: /assets/MAS_Portfolio.jpg
 ---
-##### Company
+#### Company
 
 MAS is a Municipal Advisory firm that helps cities with their public finances.
 
-##### Project
+#### Project
 
 I created and designed an animated slideshow for multiple cities in the Cleveland area. The local municipalities use this report to share their annual finances with citizens and taxpayers.
 
-
-
-##### Examples
+#### Examples
 
 ![](/assets/MAS_Slide_0.jpg)
 
