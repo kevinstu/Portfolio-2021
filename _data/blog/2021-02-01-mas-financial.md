@@ -7,7 +7,4 @@ thumbnail: /assets/MAS_Portfolio.jpg
 ---
 MAS is a Municipal Advisory firm helping that helps cities with public finance.
 
-I created and designed an animated slideshow that multiple cities use to share their annuals finances.
-
-
-
+I created and designed an animated slideshow that multiple cities use to share their annual finances.
