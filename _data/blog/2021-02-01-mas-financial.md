@@ -7,7 +7,7 @@ thumbnail: /assets/MAS_Portfolio.jpg
 ---
 ##### Company
 
-MAS is a Municipal Advisory firm helping that helps cities with public finance.
+MAS is a Municipal Advisory firm that helps cities with their public finances.
 
 ##### Project
 
