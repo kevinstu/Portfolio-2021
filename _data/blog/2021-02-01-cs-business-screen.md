@@ -15,4 +15,6 @@ I help CSBS with email marketing. This includes sending messages to leads and wr
 
 #### Example
 
-<https://www.csbusinessscreen.com/is-your-business-suffering-from-data-fatigue/>
+![](/assets/CSBS_DataFatigue.png)
+
+##### [](https://www.csbusinessscreen.com/is-your-business-suffering-from-data-fatigue/)["Is Your Business Suffering From Data Fatigue?"](https://www.csbusinessscreen.com/is-your-business-suffering-from-data-fatigue/)
