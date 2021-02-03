@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /throwingfits
-date: 2021-02-02T22:50:04.040Z
+date: 2020-07-28T21:50:00.000Z
 title: Throwing Fits
 thumbnail: /assets/ThrowingFits_Portfolio.jpg
 ---
