@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /fortress
-date: 2021-02-01T22:47:01.533Z
+date: 2020-12-08T22:47:00.000Z
 title: Fortress.AI
 thumbnail: /assets/Fortress_Portfolio.jpg
 ---
